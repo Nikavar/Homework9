@@ -71,7 +71,7 @@
 }
 
 .section1_img {
-
+    width: width(100%, 1440px);
 }
 
 .section1_h3 {
@@ -81,7 +81,7 @@
     line-height: 75px;
     text-align: center;
     color: white;
-    position:absolute;
+    position: absolute;
 }
 
 .section1_p {
@@ -92,7 +92,7 @@
     font-weight: 400;
     line-height: 28px;
     color: white;
-    padding-top:140px;
+    padding-top: 140px;
     width: 1276px;
     align-content: center;
 }

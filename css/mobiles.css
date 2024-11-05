@@ -1,6 +1,20 @@
 @media (max-width:375px) {
+
     /* header */
     header {
         padding-inline: 14px;
+    }
+
+    /* section1 */
+    .section1_img {
+        width: min(100%, 375px);
+    }
+
+    .section1_p {
+        font-family: Kanit;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 22px;
+        text-align: center;
     }
 }
