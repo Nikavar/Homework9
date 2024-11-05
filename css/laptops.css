@@ -1,0 +1,14 @@
+@media (max-width:1300px) {
+    /* header */
+   header{
+    padding-inline: 57px;
+   }
+}
+
+@media (max-width: 834px) {
+    /* header */
+    header{
+        padding-inline: 46px;
+    }
+}
+

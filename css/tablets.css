@@ -1,0 +1,14 @@
+@media (max-width:710px){
+    /* header */
+    header{
+        padding-inline: 42px;
+    }
+
+    .burger{
+        display: block;
+    }
+
+    .header_nav{
+        display: none;;
+    }
+}

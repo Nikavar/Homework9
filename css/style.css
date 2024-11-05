@@ -1,0 +1,98 @@
+/* container */
+.container {
+    width: min(100%, 1440px);
+    margin: auto;
+}
+
+/* header */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FA793C;
+    padding: 6px 82px;
+}
+
+.header_a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 14px;
+}
+
+.burger {
+    display: none;
+}
+
+.header_section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header_span {
+    color: white;
+    font-family: Pridi;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27.9px;
+}
+
+.header_nav {
+    padding-right: 40px;
+}
+
+.header_ul {
+    display: flex;
+    column-gap: 32px;
+}
+
+.header_link {
+    color: white;
+    font-family: ABeeZee;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.fa-circle-user {
+    font-size: 24px;
+    color: white;
+}
+
+
+/* section1 */
+.section1 {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.section1_img {
+
+}
+
+.section1_h3 {
+    font-family: Kanit;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 75px;
+    text-align: center;
+    color: white;
+    position:absolute;
+}
+
+.section1_p {
+    text-align: center;
+    position: absolute;
+    font-family: Kanit;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    color: white;
+    padding-top:140px;
+    width: 1276px;
+    align-content: center;
+}
